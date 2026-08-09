@@ -1,12 +1,7 @@
 # Tienda ByM - E-Commerce 
 
-Este repositorio contiene el código fuente para el sitio web de Vaporwave, una tienda en línea dedicada a la venta de vapers y artículos electrónicos. El diseño destaca por una estética moderna utilizando una paleta de colores basada en morado oscuro, negro y azul.
-
 ## 📂 Estructura del Proyecto
 
-La arquitectura del proyecto está organizada de la siguiente manera para mantener el código limpio y escalable:
-
-```text
 Tienda ByM/
 │
 ├── assets/                 # Recursos multimedia y estáticos
